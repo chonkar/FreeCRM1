@@ -1,0 +1,9 @@
+package Implementation;
+
+public class Search {
+	
+	public void displaytheProduct(Product product) {
+		if(product.getProductList().contains(product.getProductName()))
+	}
+
+}
